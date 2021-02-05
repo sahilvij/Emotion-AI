@@ -1,0 +1,9 @@
+"FacialKeypoint-model.json" file contains details about:
+     - fitting the model using a convolutional neural network.
+     - created by using the callback function 'ModelCheckpoint', which is a tensorflow function.
+     - used to spot the key points at various positions on the face, such as different position of eyes and lips; nose tip.
+     - generates the weights analyzed by learning the model.
+     - aspects used to compile the model:
+          1. optimizer : Adam
+          2. loss : mean_squared_error
+     - can be replicated later in other projects.
