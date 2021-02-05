@@ -2,7 +2,6 @@
      - fitting the model using a convolutional neural network.
      - created by using the callback function 'ModelCheckpoint', which is a tensorflow function.
      - detects the facial expression in the photograph.
-     - generates the weights analyzed by learning the model.
      - aspects used to compile the model:
           1. optimizer : Adam 
           2. loss : categorical_crossentropy
