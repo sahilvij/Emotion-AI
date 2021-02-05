@@ -1,4 +1,5 @@
 "FacialExp-model.json" file contains details about:
      - fitting the model using a convolutional neural network.
      - created by using the callback function 'ModelCheckpoint', which is a tensorflow function.
+     - detects the facial expressions in the photographs. 
      - can be replicated later in other projects.
