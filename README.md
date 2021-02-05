@@ -2,7 +2,7 @@
 This artificial intelligence model is created to detect the emotions in a photograph.
 
 
-The objective of this task is to predict key point positions on the face and also the emotions detected in the images.
+The objective of this project is to predict key point positions on the face and also the emotions detected in the images.
 This project consists of two different models, they are:
 
 Determining the key points on the face, namely:
